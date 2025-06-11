@@ -17,4 +17,7 @@
 <br>
 <div align = "center">
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>  
+<br>
+<br>
+<strong>Alguns códigos eu vou deixar dentro do própio html com a tag script é outros eu vou deixar separado mas dentro da mesma pasta para não haver confusão.</strong>
 </div>
